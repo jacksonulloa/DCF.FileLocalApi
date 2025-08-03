@@ -1,0 +1,310 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\julloa\\source\\repos\\DCF.FileStream\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{42DB6318-8AAC-488B-9C6C-FE04DC7A0EF6}|DCF.FileStream.Entities\\DCF.FileStream.Entities.csproj|c:\\users\\julloa\\source\\repos\\dcf.filestream\\dcf.filestream.entities\\generic\\appsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42DB6318-8AAC-488B-9C6C-FE04DC7A0EF6}|DCF.FileStream.Entities\\DCF.FileStream.Entities.csproj|solutionrelative:dcf.filestream.entities\\generic\\appsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E5A8F1C-4B03-4376-8FEA-E4E2DB2D8244}|DCF.FileStream.api\\DCF.FileStream.api.csproj|c:\\users\\julloa\\source\\repos\\dcf.filestream\\dcf.filestream.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0E5A8F1C-4B03-4376-8FEA-E4E2DB2D8244}|DCF.FileStream.api\\DCF.FileStream.api.csproj|solutionrelative:dcf.filestream.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E5A8F1C-4B03-4376-8FEA-E4E2DB2D8244}|DCF.FileStream.api\\DCF.FileStream.api.csproj|c:\\users\\julloa\\source\\repos\\dcf.filestream\\dcf.filestream.api\\controllers\\filecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E5A8F1C-4B03-4376-8FEA-E4E2DB2D8244}|DCF.FileStream.api\\DCF.FileStream.api.csproj|solutionrelative:dcf.filestream.api\\controllers\\filecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E5A8F1C-4B03-4376-8FEA-E4E2DB2D8244}|DCF.FileStream.api\\DCF.FileStream.api.csproj|c:\\users\\julloa\\source\\repos\\dcf.filestream\\dcf.filestream.api\\controllers\\securitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E5A8F1C-4B03-4376-8FEA-E4E2DB2D8244}|DCF.FileStream.api\\DCF.FileStream.api.csproj|solutionrelative:dcf.filestream.api\\controllers\\securitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B33523F-1CC6-4023-8872-A9CAC93E4EBF}|DCF.FileStream.Services\\DCF.FileStream.Services.csproj|c:\\users\\julloa\\source\\repos\\dcf.filestream\\dcf.filestream.services\\implementations\\fileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B33523F-1CC6-4023-8872-A9CAC93E4EBF}|DCF.FileStream.Services\\DCF.FileStream.Services.csproj|solutionrelative:dcf.filestream.services\\implementations\\fileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E5A8F1C-4B03-4376-8FEA-E4E2DB2D8244}|DCF.FileStream.api\\DCF.FileStream.api.csproj|c:\\users\\julloa\\source\\repos\\dcf.filestream\\dcf.filestream.api\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E5A8F1C-4B03-4376-8FEA-E4E2DB2D8244}|DCF.FileStream.api\\DCF.FileStream.api.csproj|solutionrelative:dcf.filestream.api\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B33523F-1CC6-4023-8872-A9CAC93E4EBF}|DCF.FileStream.Services\\DCF.FileStream.Services.csproj|c:\\users\\julloa\\source\\repos\\dcf.filestream\\dcf.filestream.services\\implementations\\securityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B33523F-1CC6-4023-8872-A9CAC93E4EBF}|DCF.FileStream.Services\\DCF.FileStream.Services.csproj|solutionrelative:dcf.filestream.services\\implementations\\securityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B73F81AC-9FCF-48AC-866B-49FB95042F2C}|DCF.FileStream.Dtos\\DCF.FileStream.Dtos.csproj|c:\\users\\julloa\\source\\repos\\dcf.filestream\\dcf.filestream.dtos\\request\\gettokenreq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B73F81AC-9FCF-48AC-866B-49FB95042F2C}|DCF.FileStream.Dtos\\DCF.FileStream.Dtos.csproj|solutionrelative:dcf.filestream.dtos\\request\\gettokenreq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B73F81AC-9FCF-48AC-866B-49FB95042F2C}|DCF.FileStream.Dtos\\DCF.FileStream.Dtos.csproj|c:\\users\\julloa\\source\\repos\\dcf.filestream\\dcf.filestream.dtos\\response\\gettokenres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B73F81AC-9FCF-48AC-866B-49FB95042F2C}|DCF.FileStream.Dtos\\DCF.FileStream.Dtos.csproj|solutionrelative:dcf.filestream.dtos\\response\\gettokenres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70F4B3F5-C477-42BC-A523-373407791F14}|DCF.FileStream.Utils\\DCF.FileStream.Utils.csproj|c:\\users\\julloa\\source\\repos\\dcf.filestream\\dcf.filestream.utils\\implementations\\toolsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70F4B3F5-C477-42BC-A523-373407791F14}|DCF.FileStream.Utils\\DCF.FileStream.Utils.csproj|solutionrelative:dcf.filestream.utils\\implementations\\toolsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70F4B3F5-C477-42BC-A523-373407791F14}|DCF.FileStream.Utils\\DCF.FileStream.Utils.csproj|c:\\users\\julloa\\source\\repos\\dcf.filestream\\dcf.filestream.utils\\implementations\\logservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70F4B3F5-C477-42BC-A523-373407791F14}|DCF.FileStream.Utils\\DCF.FileStream.Utils.csproj|solutionrelative:dcf.filestream.utils\\implementations\\logservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E5A8F1C-4B03-4376-8FEA-E4E2DB2D8244}|DCF.FileStream.api\\DCF.FileStream.api.csproj|c:\\users\\julloa\\source\\repos\\dcf.filestream\\dcf.filestream.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E5A8F1C-4B03-4376-8FEA-E4E2DB2D8244}|DCF.FileStream.api\\DCF.FileStream.api.csproj|solutionrelative:dcf.filestream.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B73F81AC-9FCF-48AC-866B-49FB95042F2C}|DCF.FileStream.Dtos\\DCF.FileStream.Dtos.csproj|c:\\users\\julloa\\source\\repos\\dcf.filestream\\dcf.filestream.dtos\\response\\downfileres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B73F81AC-9FCF-48AC-866B-49FB95042F2C}|DCF.FileStream.Dtos\\DCF.FileStream.Dtos.csproj|solutionrelative:dcf.filestream.dtos\\response\\downfileres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B73F81AC-9FCF-48AC-866B-49FB95042F2C}|DCF.FileStream.Dtos\\DCF.FileStream.Dtos.csproj|c:\\users\\julloa\\source\\repos\\dcf.filestream\\dcf.filestream.dtos\\response\\searchfileres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B73F81AC-9FCF-48AC-866B-49FB95042F2C}|DCF.FileStream.Dtos\\DCF.FileStream.Dtos.csproj|solutionrelative:dcf.filestream.dtos\\response\\searchfileres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42DB6318-8AAC-488B-9C6C-FE04DC7A0EF6}|DCF.FileStream.Entities\\DCF.FileStream.Entities.csproj|c:\\users\\julloa\\source\\repos\\dcf.filestream\\dcf.filestream.entities\\generic\\baseresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42DB6318-8AAC-488B-9C6C-FE04DC7A0EF6}|DCF.FileStream.Entities\\DCF.FileStream.Entities.csproj|solutionrelative:dcf.filestream.entities\\generic\\baseresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B33523F-1CC6-4023-8872-A9CAC93E4EBF}|DCF.FileStream.Services\\DCF.FileStream.Services.csproj|c:\\users\\julloa\\source\\repos\\dcf.filestream\\dcf.filestream.services\\profiles\\contractprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B33523F-1CC6-4023-8872-A9CAC93E4EBF}|DCF.FileStream.Services\\DCF.FileStream.Services.csproj|solutionrelative:dcf.filestream.services\\profiles\\contractprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B73F81AC-9FCF-48AC-866B-49FB95042F2C}|DCF.FileStream.Dtos\\DCF.FileStream.Dtos.csproj|c:\\users\\julloa\\source\\repos\\dcf.filestream\\dcf.filestream.dtos\\request\\searchfilereq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B73F81AC-9FCF-48AC-866B-49FB95042F2C}|DCF.FileStream.Dtos\\DCF.FileStream.Dtos.csproj|solutionrelative:dcf.filestream.dtos\\request\\searchfilereq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FileController.cs",
+              "DocumentMoniker": "C:\\Users\\julloa\\source\\repos\\DCF.FileStream\\DCF.FileStream.api\\Controllers\\FileController.cs",
+              "RelativeDocumentMoniker": "DCF.FileStream.api\\Controllers\\FileController.cs",
+              "ToolTip": "C:\\Users\\julloa\\source\\repos\\DCF.FileStream\\DCF.FileStream.api\\Controllers\\FileController.cs",
+              "RelativeToolTip": "DCF.FileStream.api\\Controllers\\FileController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAawBgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T04:35:58.496Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\julloa\\source\\repos\\DCF.FileStream\\DCF.FileStream.api\\appsettings.json",
+              "RelativeDocumentMoniker": "DCF.FileStream.api\\appsettings.json",
+              "ToolTip": "C:\\Users\\julloa\\source\\repos\\DCF.FileStream\\DCF.FileStream.api\\appsettings.json",
+              "RelativeToolTip": "DCF.FileStream.api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-03T20:54:45.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SecurityService.cs",
+              "DocumentMoniker": "C:\\Users\\julloa\\source\\repos\\DCF.FileStream\\DCF.FileStream.Services\\Implementations\\SecurityService.cs",
+              "RelativeDocumentMoniker": "DCF.FileStream.Services\\Implementations\\SecurityService.cs",
+              "ToolTip": "C:\\Users\\julloa\\source\\repos\\DCF.FileStream\\DCF.FileStream.Services\\Implementations\\SecurityService.cs",
+              "RelativeToolTip": "DCF.FileStream.Services\\Implementations\\SecurityService.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAgwBUAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T19:00:29.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppSettings.cs",
+              "DocumentMoniker": "C:\\Users\\julloa\\source\\repos\\DCF.FileStream\\DCF.FileStream.Entities\\Generic\\AppSettings.cs",
+              "RelativeDocumentMoniker": "DCF.FileStream.Entities\\Generic\\AppSettings.cs",
+              "ToolTip": "C:\\Users\\julloa\\source\\repos\\DCF.FileStream\\DCF.FileStream.Entities\\Generic\\AppSettings.cs",
+              "RelativeToolTip": "DCF.FileStream.Entities\\Generic\\AppSettings.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA5wBAAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T18:45:09.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LogService.cs",
+              "DocumentMoniker": "C:\\Users\\julloa\\source\\repos\\DCF.FileStream\\DCF.FileStream.Utils\\Implementations\\LogService.cs",
+              "RelativeDocumentMoniker": "DCF.FileStream.Utils\\Implementations\\LogService.cs",
+              "ToolTip": "C:\\Users\\julloa\\source\\repos\\DCF.FileStream\\DCF.FileStream.Utils\\Implementations\\LogService.cs",
+              "RelativeToolTip": "DCF.FileStream.Utils\\Implementations\\LogService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T18:43:17.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "C:\\Users\\julloa\\source\\repos\\DCF.FileStream\\DCF.FileStream.api\\StartUp.cs",
+              "RelativeDocumentMoniker": "DCF.FileStream.api\\StartUp.cs",
+              "ToolTip": "C:\\Users\\julloa\\source\\repos\\DCF.FileStream\\DCF.FileStream.api\\StartUp.cs",
+              "RelativeToolTip": "DCF.FileStream.api\\StartUp.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAgwGcAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T04:54:20.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SecurityController.cs",
+              "DocumentMoniker": "C:\\Users\\julloa\\source\\repos\\DCF.FileStream\\DCF.FileStream.api\\Controllers\\SecurityController.cs",
+              "RelativeDocumentMoniker": "DCF.FileStream.api\\Controllers\\SecurityController.cs",
+              "ToolTip": "C:\\Users\\julloa\\source\\repos\\DCF.FileStream\\DCF.FileStream.api\\Controllers\\SecurityController.cs",
+              "RelativeToolTip": "DCF.FileStream.api\\Controllers\\SecurityController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T19:39:23.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FileService.cs",
+              "DocumentMoniker": "C:\\Users\\julloa\\source\\repos\\DCF.FileStream\\DCF.FileStream.Services\\Implementations\\FileService.cs",
+              "RelativeDocumentMoniker": "DCF.FileStream.Services\\Implementations\\FileService.cs",
+              "ToolTip": "C:\\Users\\julloa\\source\\repos\\DCF.FileStream\\DCF.FileStream.Services\\Implementations\\FileService.cs",
+              "RelativeToolTip": "DCF.FileStream.Services\\Implementations\\FileService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAIAxwCYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T02:41:44.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GetTokenRes.cs",
+              "DocumentMoniker": "C:\\Users\\julloa\\source\\repos\\DCF.FileStream\\DCF.FileStream.Dtos\\Response\\GetTokenRes.cs",
+              "RelativeDocumentMoniker": "DCF.FileStream.Dtos\\Response\\GetTokenRes.cs",
+              "ToolTip": "C:\\Users\\julloa\\source\\repos\\DCF.FileStream\\DCF.FileStream.Dtos\\Response\\GetTokenRes.cs",
+              "RelativeToolTip": "DCF.FileStream.Dtos\\Response\\GetTokenRes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T19:02:38.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GetTokenReq.cs",
+              "DocumentMoniker": "C:\\Users\\julloa\\source\\repos\\DCF.FileStream\\DCF.FileStream.Dtos\\Request\\GetTokenReq.cs",
+              "RelativeDocumentMoniker": "DCF.FileStream.Dtos\\Request\\GetTokenReq.cs",
+              "ToolTip": "C:\\Users\\julloa\\source\\repos\\DCF.FileStream\\DCF.FileStream.Dtos\\Request\\GetTokenReq.cs",
+              "RelativeToolTip": "DCF.FileStream.Dtos\\Request\\GetTokenReq.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T19:04:18.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SearchFileRes.cs",
+              "DocumentMoniker": "C:\\Users\\julloa\\source\\repos\\DCF.FileStream\\DCF.FileStream.Dtos\\Response\\SearchFileRes.cs",
+              "RelativeDocumentMoniker": "DCF.FileStream.Dtos\\Response\\SearchFileRes.cs",
+              "ToolTip": "C:\\Users\\julloa\\source\\repos\\DCF.FileStream\\DCF.FileStream.Dtos\\Response\\SearchFileRes.cs",
+              "RelativeToolTip": "DCF.FileStream.Dtos\\Response\\SearchFileRes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T02:22:29.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ToolsService.cs",
+              "DocumentMoniker": "C:\\Users\\julloa\\source\\repos\\DCF.FileStream\\DCF.FileStream.Utils\\Implementations\\ToolsService.cs",
+              "RelativeDocumentMoniker": "DCF.FileStream.Utils\\Implementations\\ToolsService.cs",
+              "ToolTip": "C:\\Users\\julloa\\source\\repos\\DCF.FileStream\\DCF.FileStream.Utils\\Implementations\\ToolsService.cs",
+              "RelativeToolTip": "DCF.FileStream.Utils\\Implementations\\ToolsService.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T18:52:42.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ContractProfile.cs",
+              "DocumentMoniker": "C:\\Users\\julloa\\source\\repos\\DCF.FileStream\\DCF.FileStream.Services\\Profiles\\ContractProfile.cs",
+              "RelativeDocumentMoniker": "DCF.FileStream.Services\\Profiles\\ContractProfile.cs",
+              "ToolTip": "C:\\Users\\julloa\\source\\repos\\DCF.FileStream\\DCF.FileStream.Services\\Profiles\\ContractProfile.cs",
+              "RelativeToolTip": "DCF.FileStream.Services\\Profiles\\ContractProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T02:39:05.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BaseResponse.cs",
+              "DocumentMoniker": "C:\\Users\\julloa\\source\\repos\\DCF.FileStream\\DCF.FileStream.Entities\\Generic\\BaseResponse.cs",
+              "RelativeDocumentMoniker": "DCF.FileStream.Entities\\Generic\\BaseResponse.cs",
+              "ToolTip": "C:\\Users\\julloa\\source\\repos\\DCF.FileStream\\DCF.FileStream.Entities\\Generic\\BaseResponse.cs",
+              "RelativeToolTip": "DCF.FileStream.Entities\\Generic\\BaseResponse.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwCoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T02:18:59.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DownFileRes.cs",
+              "DocumentMoniker": "C:\\Users\\julloa\\source\\repos\\DCF.FileStream\\DCF.FileStream.Dtos\\Response\\DownFileRes.cs",
+              "RelativeDocumentMoniker": "DCF.FileStream.Dtos\\Response\\DownFileRes.cs",
+              "ToolTip": "C:\\Users\\julloa\\source\\repos\\DCF.FileStream\\DCF.FileStream.Dtos\\Response\\DownFileRes.cs",
+              "RelativeToolTip": "DCF.FileStream.Dtos\\Response\\DownFileRes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T04:42:06.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\julloa\\source\\repos\\DCF.FileStream\\DCF.FileStream.api\\Program.cs",
+              "RelativeDocumentMoniker": "DCF.FileStream.api\\Program.cs",
+              "ToolTip": "C:\\Users\\julloa\\source\\repos\\DCF.FileStream\\DCF.FileStream.api\\Program.cs",
+              "RelativeToolTip": "DCF.FileStream.api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T04:58:06.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "SearchFileReq.cs",
+              "DocumentMoniker": "C:\\Users\\julloa\\source\\repos\\DCF.FileStream\\DCF.FileStream.Dtos\\Request\\SearchFileReq.cs",
+              "RelativeDocumentMoniker": "DCF.FileStream.Dtos\\Request\\SearchFileReq.cs",
+              "ToolTip": "C:\\Users\\julloa\\source\\repos\\DCF.FileStream\\DCF.FileStream.Dtos\\Request\\SearchFileReq.cs",
+              "RelativeToolTip": "DCF.FileStream.Dtos\\Request\\SearchFileReq.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T02:21:28.387Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

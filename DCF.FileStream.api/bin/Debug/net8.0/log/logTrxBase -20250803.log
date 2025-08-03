@@ -1,0 +1,25 @@
+2025-08-03 15:53:52.625 [ERR] [17] [logApp] SecurityController => CreateToken
+2025-08-03 15:53:52.675 [ERR] [17] [logApp] Json Request {"UserType":"string","UserProfile":"string","UserPass":"string"}
+2025-08-03 15:53:52.683 [ERR] [17] [logApp] Json Response {"Token":"","ExpirationDate":"","CodResp":"99","DesResp":"Wrong credentials"}
+2025-08-03 15:53:52.688 [ERR] [17] [logApp] Inicio => 03-08-2025 03:53:47 p. m. Fin => 03-08-2025 03:53:47 p. m.
+2025-08-03 15:53:52.693 [ERR] [17] [logApp] Resumen => 99 - Wrong credentials [Time Exec: 0.01127 seg]
+2025-08-03 15:55:51.661 [INF] [17] [logApp] SecurityController => CreateToken
+2025-08-03 15:55:51.698 [INF] [17] [logApp] Json Request {"UserType":"superadmin","UserProfile":"45b4nc-7i-4dm1n","UserPass":"1ng3n13r14.Sw"}
+2025-08-03 15:55:51.714 [INF] [17] [logApp] Json Response {"Token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VycyI6InN1cGVyYWRtaW4iLCJleHAiOjE3ODU3OTA1MjUsImlzcyI6ImFzYmFuYyIsImF1ZCI6ImxvY2FsaG9zdCJ9.NtFphUeX8ydLgzomJyN-GosQB02Mdi588URHpUqh95w","ExpirationDate":"03/08/2026-03:55:25 p.\u202Fm.","CodResp":"00","DesResp":"Ok"}
+2025-08-03 15:55:51.717 [INF] [17] [logApp] Inicio => 03-08-2025 03:55:25 p. m. Fin => 03-08-2025 03:55:25 p. m.
+2025-08-03 15:55:51.720 [INF] [17] [logApp] Resumen => 00 - Ok [Time Exec: 0.10336 seg]
+2025-08-03 16:03:27.355 [ERR] [16] [logApp] SecurityController => CreateToken
+2025-08-03 16:03:27.362 [ERR] [16] [logApp] Json Request {"UserType":"superadmin1","UserProfile":"45b4nc-7i-4dm1n","UserPass":"1ng3n13r14.Sw"}
+2025-08-03 16:03:27.367 [ERR] [16] [logApp] Json Response {"Token":"","ExpirationDate":"","CodResp":"99","DesResp":"Wrong credentials"}
+2025-08-03 16:03:27.372 [ERR] [16] [logApp] Inicio => 03-08-2025 04:03:27 p. m. Fin => 03-08-2025 04:03:27 p. m.
+2025-08-03 16:03:27.376 [ERR] [16] [logApp] Resumen => 99 - Wrong credentials [Time Exec: 0.00039 seg]
+2025-08-03 16:14:36.124 [INF] [14] [logApp] SecurityController => CreateToken
+2025-08-03 16:14:36.170 [INF] [14] [logApp] Json Request {"UserType":"commonuser","UserProfile":"45b4nc-7i-C0mm0nU53r","UserPass":"1ng3n13r14.Sw"}
+2025-08-03 16:14:36.205 [INF] [14] [logApp] Json Response {"Token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VycyI6ImNvbW1vbnVzZXIiLCJleHAiOjE3ODU3OTE2NzUsImlzcyI6ImFzYmFuYyIsImF1ZCI6ImxvY2FsaG9zdCJ9.zwvZSOvtLi3LdigNEZFrHaqq5bsRQlUidb7eOV-muqg","ExpirationDate":"03/08/2026-04:14:35 p.\u202Fm.","CodResp":"00","DesResp":"Ok"}
+2025-08-03 16:14:36.216 [INF] [14] [logApp] Inicio => 03-08-2025 04:14:35 p. m. Fin => 03-08-2025 04:14:36 p. m.
+2025-08-03 16:14:36.238 [INF] [14] [logApp] Resumen => 00 - Ok [Time Exec: 0.13237 seg]
+2025-08-03 16:16:24.534 [INF] [22] [logApp] SecurityController => CreateToken
+2025-08-03 16:16:24.543 [INF] [22] [logApp] Json Request {"UserType":"superadmin","UserProfile":"45b4nc-7i-4dm1n","UserPass":"1ng3n13r14.Sw"}
+2025-08-03 16:16:24.549 [INF] [22] [logApp] Json Response {"Token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VycyI6InN1cGVyYWRtaW4iLCJleHAiOjE3ODU3OTE3ODQsImlzcyI6ImFzYmFuYyIsImF1ZCI6ImxvY2FsaG9zdCJ9.tDtBBaYTyzVm2w6Nth-IWFrdDYFeoL1U8NOjkwSBsGM","ExpirationDate":"03/08/2026-04:16:24 p.\u202Fm.","CodResp":"00","DesResp":"Ok"}
+2025-08-03 16:16:24.555 [INF] [22] [logApp] Inicio => 03-08-2025 04:16:24 p. m. Fin => 03-08-2025 04:16:24 p. m.
+2025-08-03 16:16:24.560 [INF] [22] [logApp] Resumen => 00 - Ok [Time Exec: 0.00130 seg]

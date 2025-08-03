@@ -1,0 +1,15 @@
+C:\Users\julloa\source\repos\DCF.FileStream\DCF.FileStream.Dtos\bin\Debug\net8.0\DCF.FileStream.Dtos.deps.json
+C:\Users\julloa\source\repos\DCF.FileStream\DCF.FileStream.Dtos\bin\Debug\net8.0\DCF.FileStream.Dtos.dll
+C:\Users\julloa\source\repos\DCF.FileStream\DCF.FileStream.Dtos\bin\Debug\net8.0\DCF.FileStream.Dtos.pdb
+C:\Users\julloa\source\repos\DCF.FileStream\DCF.FileStream.Dtos\bin\Debug\net8.0\DCF.FileStream.Entities.dll
+C:\Users\julloa\source\repos\DCF.FileStream\DCF.FileStream.Dtos\bin\Debug\net8.0\DCF.FileStream.Entities.pdb
+C:\Users\julloa\source\repos\DCF.FileStream\DCF.FileStream.Dtos\obj\Debug\net8.0\DCF.FileStream.Dtos.csproj.AssemblyReference.cache
+C:\Users\julloa\source\repos\DCF.FileStream\DCF.FileStream.Dtos\obj\Debug\net8.0\DCF.FileStream.Dtos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julloa\source\repos\DCF.FileStream\DCF.FileStream.Dtos\obj\Debug\net8.0\DCF.FileStream.Dtos.AssemblyInfoInputs.cache
+C:\Users\julloa\source\repos\DCF.FileStream\DCF.FileStream.Dtos\obj\Debug\net8.0\DCF.FileStream.Dtos.AssemblyInfo.cs
+C:\Users\julloa\source\repos\DCF.FileStream\DCF.FileStream.Dtos\obj\Debug\net8.0\DCF.FileStream.Dtos.csproj.CoreCompileInputs.cache
+C:\Users\julloa\source\repos\DCF.FileStream\DCF.FileStream.Dtos\obj\Debug\net8.0\DCF.File.6D533F4A.Up2Date
+C:\Users\julloa\source\repos\DCF.FileStream\DCF.FileStream.Dtos\obj\Debug\net8.0\DCF.FileStream.Dtos.dll
+C:\Users\julloa\source\repos\DCF.FileStream\DCF.FileStream.Dtos\obj\Debug\net8.0\refint\DCF.FileStream.Dtos.dll
+C:\Users\julloa\source\repos\DCF.FileStream\DCF.FileStream.Dtos\obj\Debug\net8.0\DCF.FileStream.Dtos.pdb
+C:\Users\julloa\source\repos\DCF.FileStream\DCF.FileStream.Dtos\obj\Debug\net8.0\ref\DCF.FileStream.Dtos.dll

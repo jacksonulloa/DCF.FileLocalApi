@@ -8,15 +8,16 @@ namespace DCF.FileStream.api.Controllers
 {
     [ApiController]
     [Route("api/[controller]")]
-    public class FileController(IFileService _fis) : ControllerBase
+    public class FileController(IFileService _fis, IDependencyProviderService _dps) : ControllerBase
     {
         private readonly IFileService fis = _fis;
-
+        private readonly IDependencyProviderService dps = _dps;
         [Authorize(Policy = "credentialtipo2")]
         [HttpPost("validar")]
         public async Task<IActionResult> ValidarArchivoAsync(SearchFileReq req)
         {
             var response = await fis.ValidarArchivo(req);
+            dps.los.WriteResumeLog("FileController => ValidarArchivoAsync", req, response, dps.aps.GlobalConfig.SystemName);
             return response is not null ? Ok(response) : BadRequest(response);
         }
         [Authorize(Policy = "credentialtipo1")]
@@ -28,6 +29,7 @@ namespace DCF.FileStream.api.Controllers
         public async Task<IActionResult> DescargarArchivoAsync(SearchFileReq req)
         {
             var resultado = await fis.DescargarArchivo(req);
+            dps.los.WriteResumeLog("FileController => DescargarArchivoAsync", req, resultado, dps.aps.GlobalConfig.SystemName);
             if (resultado.CodResp == "99" || resultado.CodResp == "22")
             {
                 return NotFound(new

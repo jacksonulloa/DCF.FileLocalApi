@@ -13,3 +13,4 @@ C:\Users\julloa\source\repos\DCF.FileStream\DCF.FileStream.Dtos\obj\Debug\net8.0
 C:\Users\julloa\source\repos\DCF.FileStream\DCF.FileStream.Dtos\obj\Debug\net8.0\refint\DCF.FileStream.Dtos.dll
 C:\Users\julloa\source\repos\DCF.FileStream\DCF.FileStream.Dtos\obj\Debug\net8.0\DCF.FileStream.Dtos.pdb
 C:\Users\julloa\source\repos\DCF.FileStream\DCF.FileStream.Dtos\obj\Debug\net8.0\ref\DCF.FileStream.Dtos.dll
+C:\Users\julloa\source\repos\DCF.FileStream\DCF.FileStream.Dtos\obj\Debug\net8.0\DCF.FileStream.Dtos.sourcelink.json

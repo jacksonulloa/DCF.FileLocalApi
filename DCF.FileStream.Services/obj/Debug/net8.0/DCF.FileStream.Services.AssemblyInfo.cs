@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DCF.FileStream.Services")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e9228967f2e3aad5b7b889db3c3327fa792a2427")]
 [assembly: System.Reflection.AssemblyProductAttribute("DCF.FileStream.Services")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DCF.FileStream.Services")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -9,3 +9,4 @@ C:\Users\julloa\source\repos\DCF.FileStream\DCF.FileStream.Entities\obj\Debug\ne
 C:\Users\julloa\source\repos\DCF.FileStream\DCF.FileStream.Entities\obj\Debug\net8.0\refint\DCF.FileStream.Entities.dll
 C:\Users\julloa\source\repos\DCF.FileStream\DCF.FileStream.Entities\obj\Debug\net8.0\DCF.FileStream.Entities.pdb
 C:\Users\julloa\source\repos\DCF.FileStream\DCF.FileStream.Entities\obj\Debug\net8.0\ref\DCF.FileStream.Entities.dll
+C:\Users\julloa\source\repos\DCF.FileStream\DCF.FileStream.Entities\obj\Debug\net8.0\DCF.FileStream.Entities.sourcelink.json

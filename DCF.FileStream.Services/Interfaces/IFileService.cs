@@ -5,7 +5,7 @@ namespace DCF.FileStream.Services.Interfaces
 {
     public interface IFileService
     {
-        Task<DownFileRes> DescargarArchivo(SearchFileReq request);
+        Task<DownFileRes> DescargarArchivo(DownFileReq request);
         Task<SearchFileRes> ValidarArchivo(SearchFileReq request);
     }
 }

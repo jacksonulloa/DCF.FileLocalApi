@@ -667,11 +667,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\julloa\\source\\repos\\DCF.FileStream\\DCF.FileStream.Services\\DCF.FileStream.Services.csproj",
+      "projectUniqueName": "D:\\PROYECTOS\\DCF.FileManager\\DCF.FileStream\\DCF.FileStream.Services\\DCF.FileStream.Services.csproj",
       "projectName": "DCF.FileStream.Services",
-      "projectPath": "C:\\Users\\julloa\\source\\repos\\DCF.FileStream\\DCF.FileStream.Services\\DCF.FileStream.Services.csproj",
+      "projectPath": "D:\\PROYECTOS\\DCF.FileManager\\DCF.FileStream\\DCF.FileStream.Services\\DCF.FileStream.Services.csproj",
       "packagesPath": "C:\\Users\\julloa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\julloa\\source\\repos\\DCF.FileStream\\DCF.FileStream.Services\\obj\\",
+      "outputPath": "D:\\PROYECTOS\\DCF.FileManager\\DCF.FileStream\\DCF.FileStream.Services\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -693,14 +693,14 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\julloa\\source\\repos\\DCF.FileStream\\DCF.FileStream.Dtos\\DCF.FileStream.Dtos.csproj": {
-              "projectPath": "C:\\Users\\julloa\\source\\repos\\DCF.FileStream\\DCF.FileStream.Dtos\\DCF.FileStream.Dtos.csproj"
+            "D:\\PROYECTOS\\DCF.FileManager\\DCF.FileStream\\DCF.FileStream.Dtos\\DCF.FileStream.Dtos.csproj": {
+              "projectPath": "D:\\PROYECTOS\\DCF.FileManager\\DCF.FileStream\\DCF.FileStream.Dtos\\DCF.FileStream.Dtos.csproj"
             },
-            "C:\\Users\\julloa\\source\\repos\\DCF.FileStream\\DCF.FileStream.Entities\\DCF.FileStream.Entities.csproj": {
-              "projectPath": "C:\\Users\\julloa\\source\\repos\\DCF.FileStream\\DCF.FileStream.Entities\\DCF.FileStream.Entities.csproj"
+            "D:\\PROYECTOS\\DCF.FileManager\\DCF.FileStream\\DCF.FileStream.Entities\\DCF.FileStream.Entities.csproj": {
+              "projectPath": "D:\\PROYECTOS\\DCF.FileManager\\DCF.FileStream\\DCF.FileStream.Entities\\DCF.FileStream.Entities.csproj"
             },
-            "C:\\Users\\julloa\\source\\repos\\DCF.FileStream\\DCF.FileStream.Utils\\DCF.FileStream.Utils.csproj": {
-              "projectPath": "C:\\Users\\julloa\\source\\repos\\DCF.FileStream\\DCF.FileStream.Utils\\DCF.FileStream.Utils.csproj"
+            "D:\\PROYECTOS\\DCF.FileManager\\DCF.FileStream\\DCF.FileStream.Utils\\DCF.FileStream.Utils.csproj": {
+              "projectPath": "D:\\PROYECTOS\\DCF.FileManager\\DCF.FileStream\\DCF.FileStream.Utils\\DCF.FileStream.Utils.csproj"
             }
           }
         }

@@ -13,7 +13,7 @@ namespace DCF.FileStream.api.Controllers
         private readonly ISecurityService Ses = ses;
         [ProducesResponseType(typeof(GetTokenRes), StatusCodes.Status200OK)]
         [ProducesResponseType(StatusCodes.Status400BadRequest)]
-        [HttpPost("GetToken")]
+        [HttpPost("getToken")]
         public async Task<IActionResult> CreateToken(GetTokenReq _login)
         {
             GetTokenRes response = Ses.GetToken(_login);

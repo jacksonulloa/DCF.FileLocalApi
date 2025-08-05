@@ -2360,11 +2360,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\julloa\\source\\repos\\DCF.FileStream\\DCF.FileStream.api\\DCF.FileStream.api.csproj",
+      "projectUniqueName": "D:\\PROYECTOS\\DCF.FileManager\\DCF.FileStream\\DCF.FileStream.api\\DCF.FileStream.api.csproj",
       "projectName": "DCF.FileStream.api",
-      "projectPath": "C:\\Users\\julloa\\source\\repos\\DCF.FileStream\\DCF.FileStream.api\\DCF.FileStream.api.csproj",
+      "projectPath": "D:\\PROYECTOS\\DCF.FileManager\\DCF.FileStream\\DCF.FileStream.api\\DCF.FileStream.api.csproj",
       "packagesPath": "C:\\Users\\julloa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\julloa\\source\\repos\\DCF.FileStream\\DCF.FileStream.api\\obj\\",
+      "outputPath": "D:\\PROYECTOS\\DCF.FileManager\\DCF.FileStream\\DCF.FileStream.api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -2386,8 +2386,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\julloa\\source\\repos\\DCF.FileStream\\DCF.FileStream.Services\\DCF.FileStream.Services.csproj": {
-              "projectPath": "C:\\Users\\julloa\\source\\repos\\DCF.FileStream\\DCF.FileStream.Services\\DCF.FileStream.Services.csproj"
+            "D:\\PROYECTOS\\DCF.FileManager\\DCF.FileStream\\DCF.FileStream.Services\\DCF.FileStream.Services.csproj": {
+              "projectPath": "D:\\PROYECTOS\\DCF.FileManager\\DCF.FileStream\\DCF.FileStream.Services\\DCF.FileStream.Services.csproj"
             }
           }
         }

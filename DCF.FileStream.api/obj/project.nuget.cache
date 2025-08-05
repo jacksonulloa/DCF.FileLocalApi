@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+lXF+Ap/aWs=",
+  "dgSpecHash": "eGPUhW4d+bw=",
   "success": true,
-  "projectFilePath": "C:\\Users\\julloa\\source\\repos\\DCF.FileStream\\DCF.FileStream.api\\DCF.FileStream.api.csproj",
+  "projectFilePath": "D:\\PROYECTOS\\DCF.FileManager\\DCF.FileStream\\DCF.FileStream.api\\DCF.FileStream.api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\julloa\\.nuget\\packages\\automapper\\15.0.1\\automapper.15.0.1.nupkg.sha512",
     "C:\\Users\\julloa\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\8.0.18\\microsoft.aspnetcore.authentication.jwtbearer.8.0.18.nupkg.sha512",

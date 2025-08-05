@@ -373,11 +373,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\julloa\\source\\repos\\DCF.FileStream\\DCF.FileStream.Utils\\DCF.FileStream.Utils.csproj",
+      "projectUniqueName": "D:\\PROYECTOS\\DCF.FileManager\\DCF.FileStream\\DCF.FileStream.Utils\\DCF.FileStream.Utils.csproj",
       "projectName": "DCF.FileStream.Utils",
-      "projectPath": "C:\\Users\\julloa\\source\\repos\\DCF.FileStream\\DCF.FileStream.Utils\\DCF.FileStream.Utils.csproj",
+      "projectPath": "D:\\PROYECTOS\\DCF.FileManager\\DCF.FileStream\\DCF.FileStream.Utils\\DCF.FileStream.Utils.csproj",
       "packagesPath": "C:\\Users\\julloa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\julloa\\source\\repos\\DCF.FileStream\\DCF.FileStream.Utils\\obj\\",
+      "outputPath": "D:\\PROYECTOS\\DCF.FileManager\\DCF.FileStream\\DCF.FileStream.Utils\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -399,8 +399,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\julloa\\source\\repos\\DCF.FileStream\\DCF.FileStream.Entities\\DCF.FileStream.Entities.csproj": {
-              "projectPath": "C:\\Users\\julloa\\source\\repos\\DCF.FileStream\\DCF.FileStream.Entities\\DCF.FileStream.Entities.csproj"
+            "D:\\PROYECTOS\\DCF.FileManager\\DCF.FileStream\\DCF.FileStream.Entities\\DCF.FileStream.Entities.csproj": {
+              "projectPath": "D:\\PROYECTOS\\DCF.FileManager\\DCF.FileStream\\DCF.FileStream.Entities\\DCF.FileStream.Entities.csproj"
             }
           }
         }

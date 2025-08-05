@@ -9,7 +9,7 @@
     "Parameters": [
       {
         "Name": "req",
-        "Type": "DCF.FileStream.Dtos.Request.SearchFileReq",
+        "Type": "DCF.FileStream.Dtos.Request.DownFileReq",
         "IsRequired": true
       }
     ],
@@ -22,15 +22,6 @@
           "text/json"
         ],
         "StatusCode": 200
-      },
-      {
-        "Type": "Microsoft.AspNetCore.Mvc.ProblemDetails",
-        "MediaTypes": [
-          "text/plain",
-          "application/json",
-          "text/json"
-        ],
-        "StatusCode": 403
       },
       {
         "Type": "DCF.FileStream.Dtos.Response.DownFileRes",
@@ -71,7 +62,7 @@
   {
     "ContainingType": "DCF.FileStream.api.Controllers.SecurityController",
     "Method": "CreateToken",
-    "RelativePath": "api/Security/GetToken",
+    "RelativePath": "api/Security/getToken",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,

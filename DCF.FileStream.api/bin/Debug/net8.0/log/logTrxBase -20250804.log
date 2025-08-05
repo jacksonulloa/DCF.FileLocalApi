@@ -1,0 +1,95 @@
+2025-08-04 17:15:55.138 [ERR] [20] [logApp] SecurityController => CreateToken
+2025-08-04 17:15:55.186 [ERR] [20] [logApp] Json Request {"UserType":"string","UserProfile":"string","UserPass":"string"}
+2025-08-04 17:15:55.194 [ERR] [20] [logApp] Json Response {"Token":"","ExpirationDate":"","CodResp":"99","DesResp":"Wrong credentials"}
+2025-08-04 17:15:55.207 [ERR] [20] [logApp] Inicio => 04-08-2025 05:15:55 p. m. Fin => 04-08-2025 05:15:55 p. m.
+2025-08-04 17:15:55.210 [ERR] [20] [logApp] Resumen => 99 - Wrong credentials [Time Exec: 0.01522 seg]
+2025-08-04 17:26:48.021 [INF] [16] [logApp] SecurityController => CreateToken
+2025-08-04 17:26:48.052 [INF] [16] [logApp] Json Request {"UserType":"superadmin","UserProfile":"45b4nc-7i-4dm1n","UserPass":"1ng3n13r14.Sw"}
+2025-08-04 17:26:48.057 [INF] [16] [logApp] Json Response {"Token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VycyI6InN1cGVyYWRtaW4iLCJleHAiOjE3ODU4ODI0MDcsImlzcyI6ImFzYmFuYyIsImF1ZCI6ImxvY2FsaG9zdCJ9.phf5dUUQ45gJQqMXV-TJLJ7xd76GR0RvYHoZwS0r5Us","ExpirationDate":"04/08/2026-05:26:47 p.\u202Fm.","CodResp":"00","DesResp":"Ok"}
+2025-08-04 17:26:48.059 [INF] [16] [logApp] Inicio => 04-08-2025 05:26:47 p. m. Fin => 04-08-2025 05:26:48 p. m.
+2025-08-04 17:26:48.061 [INF] [16] [logApp] Resumen => 00 - Ok [Time Exec: 0.06788 seg]
+2025-08-04 17:40:44.635 [INF] [25] [logApp] SecurityController => CreateToken
+2025-08-04 17:40:44.638 [INF] [25] [logApp] Json Request {"UserType":"superadmin","UserProfile":"45b4nc-7i-4dm1n","UserPass":"1ng3n13r14.Sw"}
+2025-08-04 17:40:44.640 [INF] [25] [logApp] Json Response {"Token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VycyI6InN1cGVyYWRtaW4iLCJleHAiOjE3ODU4ODMyNDQsImlzcyI6ImFzYmFuYyIsImF1ZCI6ImxvY2FsaG9zdCJ9.19n1m7CrzlmnQLf2qjkALbqJ9c8IjOFcxAVnTptluH8","ExpirationDate":"04/08/2026-05:40:44 p.\u202Fm.","CodResp":"00","DesResp":"Ok"}
+2025-08-04 17:40:44.643 [INF] [25] [logApp] Inicio => 04-08-2025 05:40:44 p. m. Fin => 04-08-2025 05:40:44 p. m.
+2025-08-04 17:40:44.645 [INF] [25] [logApp] Resumen => 00 - Ok [Time Exec: 0.00488 seg]
+2025-08-04 17:41:36.126 [INF] [33] [logApp] SecurityController => CreateToken
+2025-08-04 17:41:36.128 [INF] [33] [logApp] Json Request {"UserType":"superadmin","UserProfile":"45b4nc-7i-4dm1n","UserPass":"1ng3n13r14.Sw"}
+2025-08-04 17:41:36.130 [INF] [33] [logApp] Json Response {"Token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VycyI6InN1cGVyYWRtaW4iLCJleHAiOjE3ODU4ODMyOTYsImlzcyI6ImFzYmFuYyIsImF1ZCI6ImxvY2FsaG9zdCJ9.YMYmy5aMtvM_af00gNLBcMI1ZjKOgtnUN_X-I3eNHFo","ExpirationDate":"04/08/2026-05:41:36 p.\u202Fm.","CodResp":"00","DesResp":"Ok"}
+2025-08-04 17:41:36.132 [INF] [33] [logApp] Inicio => 04-08-2025 05:41:36 p. m. Fin => 04-08-2025 05:41:36 p. m.
+2025-08-04 17:41:36.134 [INF] [33] [logApp] Resumen => 00 - Ok [Time Exec: 0.00030 seg]
+2025-08-04 17:41:52.248 [INF] [31] [logApp] FileController => ValidarArchivoAsync
+2025-08-04 17:41:52.250 [INF] [31] [logApp] Json Request {"path":"~/App_Data/Reclamos/DNI PELQ_202506270950246012.pdf"}
+2025-08-04 17:41:52.255 [INF] [31] [logApp] Json Response {"CodResp":"22","DesResp":"Not found"}
+2025-08-04 17:41:52.257 [INF] [31] [logApp] Inicio => 04-08-2025 05:41:41 p. m. Fin => 04-08-2025 05:41:52 p. m.
+2025-08-04 17:41:52.259 [INF] [31] [logApp] Resumen => 22 - Not found [Time Exec: 10.27972 seg]
+2025-08-04 17:42:55.076 [INF] [34] [logApp] SecurityController => CreateToken
+2025-08-04 17:42:55.078 [INF] [34] [logApp] Json Request {"UserType":"superadmin","UserProfile":"45b4nc-7i-4dm1n","UserPass":"1ng3n13r14.Sw"}
+2025-08-04 17:42:55.080 [INF] [34] [logApp] Json Response {"Token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VycyI6InN1cGVyYWRtaW4iLCJleHAiOjE3ODU4ODMzNzUsImlzcyI6ImFzYmFuYyIsImF1ZCI6ImxvY2FsaG9zdCJ9.b7xqNMPwog5Rzb2kK9NK25XgHHC0R2R9I3T20hF1Q2Q","ExpirationDate":"04/08/2026-05:42:55 p.\u202Fm.","CodResp":"00","DesResp":"Ok"}
+2025-08-04 17:42:55.081 [INF] [34] [logApp] Inicio => 04-08-2025 05:42:55 p. m. Fin => 04-08-2025 05:42:55 p. m.
+2025-08-04 17:42:55.083 [INF] [34] [logApp] Resumen => 00 - Ok [Time Exec: 0.00016 seg]
+2025-08-04 17:43:00.303 [INF] [36] [logApp] FileController => ValidarArchivoAsync
+2025-08-04 17:43:00.305 [INF] [36] [logApp] Json Request {"path":"~/App_Data/Reclamos/DNI PELQ_202506270950246012.pdf"}
+2025-08-04 17:43:00.307 [INF] [36] [logApp] Json Response {"CodResp":"22","DesResp":"Not found"}
+2025-08-04 17:43:00.308 [INF] [36] [logApp] Inicio => 04-08-2025 05:42:57 p. m. Fin => 04-08-2025 05:43:00 p. m.
+2025-08-04 17:43:00.310 [INF] [36] [logApp] Resumen => 22 - Not found [Time Exec: 2.48622 seg]
+2025-08-04 17:43:40.054 [INF] [35] [logApp] SecurityController => CreateToken
+2025-08-04 17:43:40.056 [INF] [35] [logApp] Json Request {"UserType":"superadmin","UserProfile":"45b4nc-7i-4dm1n","UserPass":"1ng3n13r14.Sw"}
+2025-08-04 17:43:40.058 [INF] [35] [logApp] Json Response {"Token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VycyI6InN1cGVyYWRtaW4iLCJleHAiOjE3ODU4ODM0MjAsImlzcyI6ImFzYmFuYyIsImF1ZCI6ImxvY2FsaG9zdCJ9.f36XNb1Zrr7TONlTxQoSzekT36GRwEuhhnB85S2TET4","ExpirationDate":"04/08/2026-05:43:40 p.\u202Fm.","CodResp":"00","DesResp":"Ok"}
+2025-08-04 17:43:40.060 [INF] [35] [logApp] Inicio => 04-08-2025 05:43:40 p. m. Fin => 04-08-2025 05:43:40 p. m.
+2025-08-04 17:43:40.062 [INF] [35] [logApp] Resumen => 00 - Ok [Time Exec: 0.00027 seg]
+2025-08-04 17:44:36.301 [INF] [35] [logApp] FileController => ValidarArchivoAsync
+2025-08-04 17:44:36.302 [INF] [35] [logApp] Json Request {"path":"~/App_Data/Reclamos/DNI PELQ_202506270950246012.pdf"}
+2025-08-04 17:44:36.304 [INF] [35] [logApp] Json Response {"CodResp":"00","DesResp":"Found"}
+2025-08-04 17:44:36.306 [INF] [35] [logApp] Inicio => 04-08-2025 05:43:49 p. m. Fin => 04-08-2025 05:44:36 p. m.
+2025-08-04 17:44:36.308 [INF] [35] [logApp] Resumen => 00 - Found [Time Exec: 46.80721 seg]
+2025-08-04 17:45:08.209 [INF] [41] [logApp] SecurityController => CreateToken
+2025-08-04 17:45:08.211 [INF] [41] [logApp] Json Request {"UserType":"superadmin","UserProfile":"45b4nc-7i-4dm1n","UserPass":"1ng3n13r14.Sw"}
+2025-08-04 17:45:08.213 [INF] [41] [logApp] Json Response {"Token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VycyI6InN1cGVyYWRtaW4iLCJleHAiOjE3ODU4ODM1MDgsImlzcyI6ImFzYmFuYyIsImF1ZCI6ImxvY2FsaG9zdCJ9.5uPtNNDFY3j3y6jMcEaUarjd2FEx27-7cGGj_U-RBhE","ExpirationDate":"04/08/2026-05:45:08 p.\u202Fm.","CodResp":"00","DesResp":"Ok"}
+2025-08-04 17:45:08.215 [INF] [41] [logApp] Inicio => 04-08-2025 05:45:08 p. m. Fin => 04-08-2025 05:45:08 p. m.
+2025-08-04 17:45:08.217 [INF] [41] [logApp] Resumen => 00 - Ok [Time Exec: 0.00024 seg]
+2025-08-04 17:45:10.621 [INF] [44] [logApp] FileController => ValidarArchivoAsync
+2025-08-04 17:45:10.623 [INF] [44] [logApp] Json Request {"path":"~/App_Data/Reclamos/HOJA_RESPUESTA_BCP_1_202506270950246069.pdf"}
+2025-08-04 17:45:10.625 [INF] [44] [logApp] Json Response {"CodResp":"22","DesResp":"Not found"}
+2025-08-04 17:45:10.627 [INF] [44] [logApp] Inicio => 04-08-2025 05:45:09 p. m. Fin => 04-08-2025 05:45:10 p. m.
+2025-08-04 17:45:10.628 [INF] [44] [logApp] Resumen => 22 - Not found [Time Exec: 1.54703 seg]
+2025-08-04 17:46:44.375 [INF] [51] [logApp] SecurityController => CreateToken
+2025-08-04 17:46:44.377 [INF] [51] [logApp] Json Request {"UserType":"superadmin","UserProfile":"45b4nc-7i-4dm1n","UserPass":"1ng3n13r14.Sw"}
+2025-08-04 17:46:44.379 [INF] [51] [logApp] Json Response {"Token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VycyI6InN1cGVyYWRtaW4iLCJleHAiOjE3ODU4ODM2MDQsImlzcyI6ImFzYmFuYyIsImF1ZCI6ImxvY2FsaG9zdCJ9.rxWgxHzu-btryGPY3IbWdjBpaeO27_mLp-7urfct7jo","ExpirationDate":"04/08/2026-05:46:44 p.\u202Fm.","CodResp":"00","DesResp":"Ok"}
+2025-08-04 17:46:44.380 [INF] [51] [logApp] Inicio => 04-08-2025 05:46:44 p. m. Fin => 04-08-2025 05:46:44 p. m.
+2025-08-04 17:46:44.382 [INF] [51] [logApp] Resumen => 00 - Ok [Time Exec: 0.00022 seg]
+2025-08-04 17:46:52.114 [INF] [50] [logApp] FileController => ValidarArchivoAsync
+2025-08-04 17:46:52.116 [INF] [50] [logApp] Json Request {"path":"~/App_Data/Reclamos/HOJA_RESPUESTA_BCP_1_202506270950246069.pdf"}
+2025-08-04 17:46:52.118 [INF] [50] [logApp] Json Response {"CodResp":"22","DesResp":"Not found"}
+2025-08-04 17:46:52.119 [INF] [50] [logApp] Inicio => 04-08-2025 05:46:49 p. m. Fin => 04-08-2025 05:46:52 p. m.
+2025-08-04 17:46:52.121 [INF] [50] [logApp] Resumen => 22 - Not found [Time Exec: 2.61755 seg]
+2025-08-04 17:50:17.162 [INF] [57] [logApp] SecurityController => CreateToken
+2025-08-04 17:50:17.164 [INF] [57] [logApp] Json Request {"UserType":"superadmin","UserProfile":"45b4nc-7i-4dm1n","UserPass":"1ng3n13r14.Sw"}
+2025-08-04 17:50:17.166 [INF] [57] [logApp] Json Response {"Token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VycyI6InN1cGVyYWRtaW4iLCJleHAiOjE3ODU4ODM4MTcsImlzcyI6ImFzYmFuYyIsImF1ZCI6ImxvY2FsaG9zdCJ9.DPYzM5ffkRxoeGMN73NdY4f56MkL-X9WzSRgDW47q3k","ExpirationDate":"04/08/2026-05:50:17 p.\u202Fm.","CodResp":"00","DesResp":"Ok"}
+2025-08-04 17:50:17.168 [INF] [57] [logApp] Inicio => 04-08-2025 05:50:17 p. m. Fin => 04-08-2025 05:50:17 p. m.
+2025-08-04 17:50:17.170 [INF] [57] [logApp] Resumen => 00 - Ok [Time Exec: 0.00029 seg]
+2025-08-04 17:50:23.268 [INF] [55] [logApp] FileController => ValidarArchivoAsync
+2025-08-04 17:50:23.271 [INF] [55] [logApp] Json Request {"path":"~/App_Data/Reclamos/HOJA_RESPUESTA_BCP_1_202506270950246069.pdf"}
+2025-08-04 17:50:23.273 [INF] [55] [logApp] Json Response {"CodResp":"22","DesResp":"Not found"}
+2025-08-04 17:50:23.275 [INF] [55] [logApp] Inicio => 04-08-2025 05:50:19 p. m. Fin => 04-08-2025 05:50:23 p. m.
+2025-08-04 17:50:23.276 [INF] [55] [logApp] Resumen => 22 - Not found [Time Exec: 3.50249 seg]
+2025-08-04 17:50:43.385 [INF] [55] [logApp] SecurityController => CreateToken
+2025-08-04 17:50:43.387 [INF] [55] [logApp] Json Request {"UserType":"superadmin","UserProfile":"45b4nc-7i-4dm1n","UserPass":"1ng3n13r14.Sw"}
+2025-08-04 17:50:43.390 [INF] [55] [logApp] Json Response {"Token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VycyI6InN1cGVyYWRtaW4iLCJleHAiOjE3ODU4ODM4NDMsImlzcyI6ImFzYmFuYyIsImF1ZCI6ImxvY2FsaG9zdCJ9.rp8RSwFaJPwbadSkse_cJ3bOQFpQQoGVm1Q2LWGkBWA","ExpirationDate":"04/08/2026-05:50:43 p.\u202Fm.","CodResp":"00","DesResp":"Ok"}
+2025-08-04 17:50:43.392 [INF] [55] [logApp] Inicio => 04-08-2025 05:50:43 p. m. Fin => 04-08-2025 05:50:43 p. m.
+2025-08-04 17:50:43.394 [INF] [55] [logApp] Resumen => 00 - Ok [Time Exec: 0.00450 seg]
+2025-08-04 17:50:44.011 [INF] [58] [logApp] FileController => ValidarArchivoAsync
+2025-08-04 17:50:44.014 [INF] [58] [logApp] Json Request {"path":"~/App_Data/Reclamos/DNI PELQ_202506270950246012.pdf"}
+2025-08-04 17:50:44.017 [INF] [58] [logApp] Json Response {"CodResp":"00","DesResp":"Found"}
+2025-08-04 17:50:44.020 [INF] [58] [logApp] Inicio => 04-08-2025 05:50:43 p. m. Fin => 04-08-2025 05:50:44 p. m.
+2025-08-04 17:50:44.023 [INF] [58] [logApp] Resumen => 00 - Found [Time Exec: 0.02344 seg]
+2025-08-04 17:52:23.879 [INF] [63] [logApp] SecurityController => CreateToken
+2025-08-04 17:52:23.881 [INF] [63] [logApp] Json Request {"UserType":"superadmin","UserProfile":"45b4nc-7i-4dm1n","UserPass":"1ng3n13r14.Sw"}
+2025-08-04 17:52:23.882 [INF] [63] [logApp] Json Response {"Token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VycyI6InN1cGVyYWRtaW4iLCJleHAiOjE3ODU4ODM5NDMsImlzcyI6ImFzYmFuYyIsImF1ZCI6ImxvY2FsaG9zdCJ9.c1VrvmurZVBdzEpi8_3X02bIEomnBV3Q-iJBEhedUTE","ExpirationDate":"04/08/2026-05:52:23 p.\u202Fm.","CodResp":"00","DesResp":"Ok"}
+2025-08-04 17:52:23.884 [INF] [63] [logApp] Inicio => 04-08-2025 05:52:23 p. m. Fin => 04-08-2025 05:52:23 p. m.
+2025-08-04 17:52:23.885 [INF] [63] [logApp] Resumen => 00 - Ok [Time Exec: 0.00017 seg]
+2025-08-04 17:52:25.265 [INF] [62] [logApp] FileController => ValidarArchivoAsync
+2025-08-04 17:52:25.267 [INF] [62] [logApp] Json Request {"path":"~/App_Data/Reclamos/HOJA_RESPUESTA_BCP_1_202506270950246069.pdf"}
+2025-08-04 17:52:25.269 [INF] [62] [logApp] Json Response {"CodResp":"22","DesResp":"Not found"}
+2025-08-04 17:52:25.270 [INF] [62] [logApp] Inicio => 04-08-2025 05:52:25 p. m. Fin => 04-08-2025 05:52:25 p. m.
+2025-08-04 17:52:25.272 [INF] [62] [logApp] Resumen => 22 - Not found [Time Exec: 0.01754 seg]

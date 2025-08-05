@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\julloa\\source\\repos\\DCF.FileStream\\DCF.FileStream.Entities\\DCF.FileStream.Entities.csproj",
+      "projectUniqueName": "D:\\PROYECTOS\\DCF.FileManager\\DCF.FileStream\\DCF.FileStream.Entities\\DCF.FileStream.Entities.csproj",
       "projectName": "DCF.FileStream.Entities",
-      "projectPath": "C:\\Users\\julloa\\source\\repos\\DCF.FileStream\\DCF.FileStream.Entities\\DCF.FileStream.Entities.csproj",
+      "projectPath": "D:\\PROYECTOS\\DCF.FileManager\\DCF.FileStream\\DCF.FileStream.Entities\\DCF.FileStream.Entities.csproj",
       "packagesPath": "C:\\Users\\julloa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\julloa\\source\\repos\\DCF.FileStream\\DCF.FileStream.Entities\\obj\\",
+      "outputPath": "D:\\PROYECTOS\\DCF.FileManager\\DCF.FileStream\\DCF.FileStream.Entities\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

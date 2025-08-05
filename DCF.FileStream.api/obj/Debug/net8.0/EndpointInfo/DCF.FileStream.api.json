@@ -45,17 +45,17 @@
           "content": {
             "application/json": {
               "schema": {
-                "$ref": "#/components/schemas/SearchFileReq"
+                "$ref": "#/components/schemas/DownFileReq"
               }
             },
             "text/json": {
               "schema": {
-                "$ref": "#/components/schemas/SearchFileReq"
+                "$ref": "#/components/schemas/DownFileReq"
               }
             },
             "application/*+json": {
               "schema": {
-                "$ref": "#/components/schemas/SearchFileReq"
+                "$ref": "#/components/schemas/DownFileReq"
               }
             }
           }
@@ -80,26 +80,6 @@
                 "schema": {
                   "type": "string",
                   "format": "binary"
-                }
-              }
-            }
-          },
-          "403": {
-            "description": "Forbidden",
-            "content": {
-              "text/plain": {
-                "schema": {
-                  "$ref": "#/components/schemas/ProblemDetails"
-                }
-              },
-              "application/json": {
-                "schema": {
-                  "$ref": "#/components/schemas/ProblemDetails"
-                }
-              },
-              "text/json": {
-                "schema": {
-                  "$ref": "#/components/schemas/ProblemDetails"
                 }
               }
             }
@@ -147,7 +127,7 @@
         }
       }
     },
-    "/api/Security/GetToken": {
+    "/api/Security/getToken": {
       "post": {
         "tags": [
           "Security"
@@ -218,6 +198,20 @@
   },
   "components": {
     "schemas": {
+      "DownFileReq": {
+        "type": "object",
+        "properties": {
+          "path": {
+            "type": "string",
+            "nullable": true
+          },
+          "contentType": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
       "DownFileRes": {
         "type": "object",
         "properties": {

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DCF.FileStream.Entities")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e9228967f2e3aad5b7b889db3c3327fa792a2427")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7def5347c4e31f6da6e6bd55e1651166d93beaed")]
 [assembly: System.Reflection.AssemblyProductAttribute("DCF.FileStream.Entities")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DCF.FileStream.Entities")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

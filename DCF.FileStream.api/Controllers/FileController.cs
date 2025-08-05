@@ -26,10 +26,10 @@ namespace DCF.FileStream.api.Controllers
         //[ProducesResponseType(StatusCodes.Status403Forbidden)]
         [ProducesResponseType(typeof(DownFileRes), StatusCodes.Status404NotFound)]
         [ProducesResponseType(typeof(DownFileRes), StatusCodes.Status500InternalServerError)]
-        public async Task<IActionResult> DescargarArchivoAsync(SearchFileReq req)
+        public async Task<IActionResult> DescargarArchivoAsync(DownFileReq req)
         {
             var resultado = await fis.DescargarArchivo(req);
-            dps.los.WriteResumeLog("FileController => DescargarArchivoAsync", req, resultado, dps.aps.GlobalConfig.SystemName);
+            //dps.los.WriteResumeLog("FileController => DescargarArchivoAsync", req, resultado, dps.aps.GlobalConfig.SystemName);
             if (resultado.CodResp == "99" || resultado.CodResp == "22")
             {
                 return NotFound(new

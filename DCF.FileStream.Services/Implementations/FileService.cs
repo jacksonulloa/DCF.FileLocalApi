@@ -34,7 +34,7 @@ namespace DCF.FileStream.Services.Implementations
             return response;
         }
 
-        public async Task<DownFileRes> DescargarArchivo(SearchFileReq request)
+        public async Task<DownFileRes> DescargarArchivo(DownFileReq request)
         {
             DownFileRes response = new() { CodResp = "00", DesResp = "Ok", StartExec = DateTime.Now };
             DownFileRes temporal = new();
@@ -55,7 +55,7 @@ namespace DCF.FileStream.Services.Implementations
                 temporal = new()
                 {
                     Stream = streamObj,
-                    ContentType = "application/octet-stream",
+                    ContentType = request.ContentType,
                     NombreArchivo = Path.GetFileName(pathFileComplete)
                 };
             }
